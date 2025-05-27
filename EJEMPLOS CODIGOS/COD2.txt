@@ -1,0 +1,12 @@
+start ejemplo;
+import javacup;
+{
+    private int contador() {
+        int i = 0;
+        while (i < 5) {
+            printf("iteracion");
+            i++;
+        }
+    };
+}
+end

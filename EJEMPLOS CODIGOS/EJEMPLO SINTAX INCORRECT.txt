@@ -1,0 +1,12 @@
+start errores
+import libreria1  // Falta punto y coma
+{
+    public int main( {  // Falta paréntesis de cierre
+        int x = ;  // Falta valor
+        if x > 3  // Falta paréntesis
+            printf("mayor"  // Falta cerrar comillas y paréntesis
+        else
+            printf "menor"  // Falta paréntesis
+        ;
+    ;
+end

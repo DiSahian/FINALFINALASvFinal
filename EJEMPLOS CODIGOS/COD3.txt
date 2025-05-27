@@ -1,0 +1,11 @@
+start listas;
+import collections;
+{
+    internal void procesar() {
+        string[] nombres = {"Sahian","Yair","Zudi"};
+        foreach (string nombre in nombres) {
+            printf("elemento");
+        }
+    };
+}
+end
